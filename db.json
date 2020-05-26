@@ -1,0 +1,71 @@
+
+{
+  "products": [
+    {
+      "code": "clu-619301500-luk",
+      "codeOriginal": "619301500",
+      "purchase": 1,
+      "stock": 1,
+      "stockmin": 2,
+      "ProviderName": "Fiol",
+      "ProviderStock": 0,
+      "ProviderPrice": 10213.6000,
+      "ProviderCost": 3472.6240
+    },
+    {
+      "code": "clu-619301500-luk",
+      "codeOriginal": "619301500",
+      "purchase": 1,
+      "stock": 1,
+      "stockmin": 2,
+      "ProviderName": "Der SA",
+      "ProviderStock": 180,
+      "ProviderPrice": 7052.9600,
+      "ProviderCost": 3685.1716
+    },
+    {
+      "code": "clu-619304700-luk",
+      "codeOriginal": "619304700",
+      "purchase": 1,
+      "stock": 1,
+      "stockmin": 2,
+      "ProviderName": "Fiol",
+      "ProviderStock": 0,
+      "ProviderPrice": 11401.9000,
+      "ProviderCost": 3876.6460
+    },
+    {
+      "code": "clu-619304700-luk",
+      "codeOriginal": "619304700",
+      "purchase": 1,
+      "stock": 1,
+      "stockmin": 2,
+      "ProviderName": "Der SA",
+      "ProviderStock": 114,
+      "ProviderPrice": 7873.0000,
+      "ProviderCost": 4113.6425
+    },
+    {
+      "code": "clu-620315400-luk",
+      "codeOriginal": "620315400",
+      "purchase": 1,
+      "stock": 1,
+      "stockmin": 2,
+      "ProviderName": "Fiol",
+      "ProviderStock": 0,
+      "ProviderPrice": 12036.3000,
+      "ProviderCost": 4092.3420
+    },
+    {
+      "code": "clu-620315400-luk",
+      "codeOriginal": "620315400",
+      "purchase": 1,
+      "stock": 1,
+      "stockmin": 2,
+      "ProviderName": "Der SA",
+      "ProviderStock": 15,
+      "ProviderPrice": 8311.5600,
+      "ProviderCost": 4342.7901
+    }
+  ]
+} 
